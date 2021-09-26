@@ -30,7 +30,7 @@
 <br />
 <br />
 
-[![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartsdesign&show_icons=true&count_private=true&hide=contribs)](https://github.com/smartsdesignithub-readme-stats)
+[![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartsdesign&show_icons=true&count_private=true&hide=contribs)](https://github.com/smartsdesign/github-readme-stats)
 
 [linkedin]: https://linkedin.com/in/samsonmuhangi
 [twitter]: https://twitter.com/samsonmuhangi
