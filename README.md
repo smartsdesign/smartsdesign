@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I love hiking, cycling, staying in shape, and a good book.**
 
-## Connect with me:
+### Connect with me:
 
 [<img align="left" alt="samsonmuhangi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
