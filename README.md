@@ -2,8 +2,8 @@
 
 - 🏢 I am currently working at [Tide](https://www.tide.co/)
 - 🧑🏾‍💻 I am a Lead Engineer at Tide
-- ⛓ I currently learning Blockchain technologies
-- ⚡ Fun fact: I love hiking, cycling, staying in shape, nature and a avid reader.
+- ⛓ I am currently learning Blockchain and Web3 technologies
+- ⚡ Fun fact: I love hiking, cycling, staying in shape, nature and a good book 😂.
 
 ## Connect with me:
 
