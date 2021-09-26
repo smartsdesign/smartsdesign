@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain and Web3 technologies**
 
-- 💬 Ask me about **anything Web Engineering related, and Technical Leadership.**
+- 💬 Ask me about **anything Web Engineering related, and/or Technical Leadership.**
 
 - 📫 How to reach me **samson.biz@gmail.com**
 
