@@ -1,14 +1,14 @@
 # Hi there, I am Samson Muhangi 👋🏾
 
-- 🏢 I am currently working at [Tide][https://www.tide.co/]
+- 🏢 I am currently working at [Tide](https://www.tide.co/)
 - 🧑🏾‍💻 I am a Lead Engineer at Tide
 - ⛓ I currently learning Blockchain technologies
 - ⚡ Fun fact: I love hiking, cycling, staying in shape, nature and a avid reader.
 
 ## Connect with me:
 
-- [<img align="left" alt="samsonmuhangi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="samsonmuhangi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 ## Languages and Tools:
 
