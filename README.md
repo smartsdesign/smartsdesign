@@ -26,7 +26,7 @@
 <br />
 <br />
 
-[![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsonmuhangi&show_icons=true)](https://github.com/smartsdesignithub-readme-stats)
+[![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=smartsdesign&show_icons=true)](https://github.com/smartsdesignithub-readme-stats)
 
 [linkedin]: https://linkedin.com/in/samsonmuhangi
 [twitter]: https://twitter.com/samsonmuhangi
