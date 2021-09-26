@@ -26,12 +26,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="smartsdesign's GitHub Stats" src="https://github-readme-stats.smartsdesign.vercel.app/api?username=smartsdesign&show_icons=true&hide_border=true" />
-
-</details>
+[![Samson's GitHub stats](https://github-readme-stats.vercel.app/api?username=samsonmuhangi&show_icons=true)](https://github.com/smartsdesignithub-readme-stats)
 
 [linkedin]: https://linkedin.com/in/samsonmuhangi
 [twitter]: https://twitter.com/samsonmuhangi
