@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Samson Muhangi</h1>
-<h3 align="center">A passionate Web Engineer from London, England</h3>
+<h3 align="center">Web engineering and technical leadership are 2 of my passions!</h3>
 
 - 🌱 I’m currently learning **Blockchain and Web3 technologies**
 
