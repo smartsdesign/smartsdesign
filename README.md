@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **samson.biz@gmail.com**
 
-- ⚡ Fun fact **I love hiking, cycling, staying in shape, and a good book**
+- ⚡ Fun fact **I love hiking, cycling, staying in shape, and a good book 🤓**
 
 ### Connect with me:
 
